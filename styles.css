@@ -1,2 +1,10 @@
-
-/* Your CSS Code here. */
+table{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 20%;
+}
+tr , td{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
